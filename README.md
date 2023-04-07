@@ -1,5 +1,3 @@
-### Hi there 👋, Gisan Geff Raniego
-#### Hobbyist Coder
 ![Hobbyist Coder](https://pbs.twimg.com/media/FtJmbAUaUAAr1xm?format=jpg&name=medium)
 
 I'm a web developer who loves to code in my free time as well. As a hobbyist coder, I enjoy collaborating with other developers, and I'm always looking for new opportunities to learn and grow.
