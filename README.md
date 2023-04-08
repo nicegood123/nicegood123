@@ -41,6 +41,14 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 <br/>  
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nicg&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=nicegood123&&style=flat-square" align="center" />
 </div>  
 
