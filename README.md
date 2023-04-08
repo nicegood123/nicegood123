@@ -6,10 +6,6 @@ I believe in writing clean, well-documented code that is easy to read and mainta
 
 Thank you for visiting my profile, and reach out to me with any questions or opportunities to collaborate!
 
-Skills: Laravel / React Native
-
-- 🔭 I’m currently working on this page. 
-
 
 ![GitHub metrics](https://metrics.lecoq.io/nicegood123)  
 
