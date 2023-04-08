@@ -64,5 +64,9 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 
 <br/>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicegood123&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nicegood123)  
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
