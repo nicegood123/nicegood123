@@ -43,13 +43,15 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 ## Github Stats  
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=nicegood123&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
       </div>
     </td>
-    <td valign="top" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=nicegood123" align="center" style="width: 50%" />
+    <td valign="top" width="100%">
+      <div align="center">
+        <img src="https://streak-stats.demolab.com/?user=nicegood123" align="center" style="width: 50%" />
+      </div>
     </td>
   </tr>
 </table>  
