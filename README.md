@@ -6,7 +6,7 @@ I believe in writing clean, well-documented code that is easy to read and mainta
 
 Thank you for visiting my profile, and reach out to me with any questions or opportunities to collaborate!
 
-<img src="[https://komarev.com/ghpvc/?username=nicegood123&&style=flat-square](https://metrics.lecoq.io/nicegood123)" align="center" />
+<img src="https://metrics.lecoq.io/nicegood123" align="center" />
 
   
 
