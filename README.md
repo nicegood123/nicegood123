@@ -40,24 +40,6 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 
 <br/>  
 
-## Github Stats  
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nicegood123&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <img src="https://streak-stats.demolab.com/?user=nicegood123" align="center" style="width: 100%; boder: none;" />
-      </div>
-    </td>
-  </tr>
-</table>  
-
- <br/>  
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nicegood123&&style=flat-square" align="center" />
 </div>  
@@ -66,4 +48,6 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+</div>
