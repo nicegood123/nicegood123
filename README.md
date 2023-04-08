@@ -8,17 +8,6 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 
 <br/>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/nicegood123" align="center" />
-</div>  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicegood123&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-<br/>
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
@@ -41,6 +30,16 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
 </div>  
+
+<br/>
+
+<!-- <div align="center">
+  <img src="https://metrics.lecoq.io/nicegood123" align="center" />
+</div>   -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicegood123&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 <br/>  
 
