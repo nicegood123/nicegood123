@@ -50,7 +50,7 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
     </td>
     <td valign="top" width="50%">
       <div align="center">
-        <img src="https://streak-stats.demolab.com/?user=nicegood123" border="0" align="center" style="width: 100%" />
+        <img src="https://streak-stats.demolab.com/?user=nicegood123" align="center" style="width: 100%; boder: none;" />
       </div>
     </td>
   </tr>
