@@ -1,5 +1,4 @@
-
-![Hobbyist Coder]([https://github.com/nicegood123/nicegood123/blob/main/banner.png])
+(https://github.com/nicegood123/nicegood123/blob/main/banner.png?raw=true)
 
 I'm a web developer who loves to code in my free time as well. As a hobbyist coder, I enjoy collaborating with other developers, and I'm always looking for new opportunities to learn and grow.
 
