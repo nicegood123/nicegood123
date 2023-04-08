@@ -53,11 +53,8 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 
 </td></tr></table>  
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nicegood123&&style=flat-square" align="center" />
-</div>  
+ 
 
 <br/>
 
