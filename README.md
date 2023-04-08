@@ -6,8 +6,6 @@ I believe in writing clean, well-documented code that is easy to read and mainta
 
 Thank you for visiting my profile, and reach out to me with any questions or opportunities to collaborate!
 
-<br/>
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
