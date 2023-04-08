@@ -6,15 +6,13 @@ I believe in writing clean, well-documented code that is easy to read and mainta
 
 Thank you for visiting my profile, and reach out to me with any questions or opportunities to collaborate!
 
+<br/>
 
 <div align="center">
   <img src="https://metrics.lecoq.io/nicegood123" align="center" />
 </div>  
 
 <br/>
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nicegood123)  
-
 
 
 ## Languages and Tools  
@@ -42,18 +40,19 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 
 <br/>  
 
-
 ## Github Stats  
-<table><tr><td valign="top" width="100%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nicegood123&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-  
-
-</td></tr></table>  
-
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=nicegood123&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+      </div>
+    </td>
+    <td valign="top" width="100%">
+      <img src="https://streak-stats.demolab.com/?user=nicegood123" align="center" style="width: 100%" />
+    </td>
+  </tr>
+</table>  
 
  <br/>  
 
