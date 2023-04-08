@@ -1,6 +1,6 @@
 ![Hobbyist Coder](https://github.com/nicegood123/nicegood123/blob/main/banner.png?raw=true)
 
-I'm a web developer who loves to code in my free time as well. As a hobbyist coder, I enjoy collaborating with other developers, and I'm always looking for new opportunities to learn and grow.
+Hello, I'm a web developer who loves to code in my free time as well. As a hobbyist coder, I enjoy collaborating with other developers, and I'm always looking for new opportunities to learn and grow.
 
 I believe in writing clean, well-documented code that is easy to read and maintain. I also prioritize testing and debugging to ensure that my code is reliable and secure.
 
@@ -11,8 +11,6 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 <div align="center">
   <img src="https://metrics.lecoq.io/nicegood123" align="center" />
 </div>  
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicegood123&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
