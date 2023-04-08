@@ -11,11 +11,9 @@ Skills: Laravel / React Native
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicegood123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/gisangeff.raniego)  
+![GitHub metrics](https://metrics.lecoq.io/nicegood123)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicegood123&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/nicegood123)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nicegood123)  
 
