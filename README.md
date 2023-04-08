@@ -6,11 +6,12 @@ I believe in writing clean, well-documented code that is easy to read and mainta
 
 Thank you for visiting my profile, and reach out to me with any questions or opportunities to collaborate!
 
-<img src="https://metrics.lecoq.io/nicegood123" style="margin: auto;" />
 
-  
+<div align="center">
+  <img src="https://metrics.lecoq.io/nicegood123" align="center" />
+</div>  
 
-
+<br/>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nicegood123)  
 
@@ -54,7 +55,11 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 </td></tr></table>  
 
 
- 
+ <br/>  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nicegood123&&style=flat-square" align="center" />
+</div>  
 
 <br/>
 
