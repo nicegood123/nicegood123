@@ -12,6 +12,12 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
   <img src="https://metrics.lecoq.io/nicegood123" align="center" />
 </div>  
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicegood123&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
 <br/>
 
 
@@ -40,21 +46,11 @@ Thank you for visiting my profile, and reach out to me with any questions or opp
 
 <br/>  
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicegood123&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nicegood123&&style=flat-square" align="center" />
 </div>  
 
-<br/>
 
-
-----
-<div align="center">
-  Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
-</div>
