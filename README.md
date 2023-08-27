@@ -1,11 +1,5 @@
 ![Hobbyist Coder](https://github.com/nicegood123/nicegood123/blob/main/banner.png?raw=true)
 
-Hello, I'm a web developer who loves to code in my free time as well. As a hobbyist coder, I enjoy collaborating with other developers, and I'm always looking for new opportunities to learn and grow.
-
-I believe in writing clean, well-documented code that is easy to read and maintain. I also prioritize testing and debugging to ensure that my code is reliable and secure.
-
-Thank you for visiting my profile, and reach out to me with any questions or opportunities to collaborate!
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
